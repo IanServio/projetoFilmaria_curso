@@ -6,6 +6,8 @@ Este projeto foi desenvolvido com o objetivo de aprimorar meus conhecimentos em 
 - Hooks API
 - Requisições HTTP
 - Gerenciamento de Rotas
+- Axios API
+- React-Toastify
 
 
 Esses recursos foram utilizados para criar uma aplicação robusta e eficiente, visando a melhoria contínua das habilidades em React.
